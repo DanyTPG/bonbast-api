@@ -1,5 +1,9 @@
+contextlib
+datetime
 bonbast
 fastapi
 fastapi-cache2[memcache]
 uvicorn
 httpx
+beautifulsoup4
+
